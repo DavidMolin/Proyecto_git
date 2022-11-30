@@ -30,6 +30,13 @@ int main()
 
 
 	}
+        if (limiteinicial >= 0 && limitefinal == 1 && incremento == 0)
+	{
+		
+		printf("%lf %lf %lf\n", limiteinicial, limitefinal, incremento );
+
+
+	}
 	else if (limiteinicial > limitefinal) {
 		return 1;
 	}
