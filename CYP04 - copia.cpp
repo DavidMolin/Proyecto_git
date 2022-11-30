@@ -22,7 +22,7 @@ int main()
 	scanf_s("%lf", &incremento);
 	scanf_s("%i", &s);
 
-
+while{
 	if (limiteinicial <= 0 && limitefinal == 0 && incremento == 0)
 	{
 		
@@ -37,6 +37,7 @@ int main()
 
 
 	}
+}
 	else if (limiteinicial > limitefinal) {
 		return 1;
 	}
