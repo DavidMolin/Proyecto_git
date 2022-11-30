@@ -54,5 +54,9 @@ int main()
 		a = 0;
 		ResE = 0;
 		b++;
+             printf("%lf %lf %lf\n", RESx, ResE, exp(RESx));
+		a = 0;
+		ResE = 0;
+		b++;
 	}
 }
