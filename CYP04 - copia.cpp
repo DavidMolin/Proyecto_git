@@ -8,6 +8,8 @@ int main()
 	double RESx, iteracciones;
 	double ResE = 0;
 
+	int s=1;
+
 	int a=0;
 	int b=0;
 	int c=0;
