@@ -7,6 +7,7 @@ int main()
 
 	double RESx, iteracciones;
 	double ResE = 0;
+	double resA=0;
 
 	int s=1;
 
