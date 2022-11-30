@@ -19,6 +19,7 @@ int main()
 	scanf_s("%lf", &limiteinicial);
 	scanf_s("%lf", &limitefinal);
 	scanf_s("%lf", &incremento);
+	scanf_s("%i", &s);
 
 
 	if (limiteinicial <= 0 && limitefinal == 0 && incremento == 0)
